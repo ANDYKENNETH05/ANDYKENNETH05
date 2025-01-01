@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANDYKENNETH05
-- 👀 I’m interested in PYTHON,WEB DEVELOPMENT, AI AND MACHINE LEARNING
+- 👀 I’m interested in PYTHON,WEB DEVELOPMENT ,DJANGO, AI AND MACHINE LEARNING
 - 🌱 I’m currently learning ALL OF THE ABOVE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
