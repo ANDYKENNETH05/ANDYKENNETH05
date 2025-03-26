@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <h4>linkedin</h4>
-<p>https://www.linkedin..com/in/kenneth-andy-9ba12b279</p>
+<p>https://www.linkedin.com/in/kenneth-andy-9ba12b279</p>
 <h4>Gmail</h4>
 <p>kennethandy25@gmail.com</p>
 <p align="left">
