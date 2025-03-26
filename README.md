@@ -2,6 +2,7 @@
 <h3 align="center">A passionate python,Django and AI developer from Nigeria</h3>
 
 <h3 align="left">Connect with me:</h3>
+<p>https://www.linkedin..com/in/kenneth-andy-9ba12b279</p>
 <p align="left">
 </p>
 
