@@ -4,8 +4,6 @@
 <h3 align="left">Connect with me:</h3>
 <h4>linkedin</h4>
 <p>https://www.linkedin.com/in/kenneth-andy-9ba12b279</p>
-<h4>Gmail</h4>
-<a>kennethandy25@gmail.com</a>
 <p align="left">
 </p>
 
