@@ -1,4 +1,4 @@
-# Hi there, I'm kenneth andrew <img src="https://emojis.slackmojis.com/emojis/images/1643514058/149/sonic.gif?1643514058" width="28" />
+# Hi there, I'm kenneth Andy <img src="https://emojis.slackmojis.com/emojis/images/1643514058/149/sonic.gif?1643514058" width="28" />
 ## I’m a Python, django && AI dev
 - Reach me: <a href="unknown" target="_top">@ken</a> on any social platform!
 
